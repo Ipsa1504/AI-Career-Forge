@@ -271,9 +271,4 @@ Please ensure your code adheres to the existing style and that any new features 
 ## License 📄
 This project is licensed under the MIT License. See the `LICENSE` file for details (if one is created, otherwise assume MIT).
 
-## Contact 📧
-For questions or support, please reach out to [sushilpatel5113@gmail.com](mailto:sushilpatel5113@gmail.com).
 
----
-
-Made with ❤️ by @sushil930.
